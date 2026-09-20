@@ -1,6 +1,6 @@
 cask "moxspeak" do
-  version "0.5.0"
-  sha256 "e721b68571ecde1fddea3c873e01e2c03af5153756e1cbed798daede85122931"
+  version "0.6.0"
+  sha256 "537b247c430ffb921376e33552855fed963bcc6e4206b41d3ddc0f422f7c6773"
 
   url "https://github.com/guymorita/moxspeak/releases/download/v#{version}/MoxSpeak.dmg"
   name "MoxSpeak"
