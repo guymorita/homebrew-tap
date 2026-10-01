@@ -5,7 +5,7 @@ cask "moxspeak" do
   url "https://github.com/guymorita/moxspeak/releases/download/v#{version}/MoxSpeak.dmg"
   name "MoxSpeak"
   desc "Select text anywhere and hear it read aloud, with the voice model running locally"
-  homepage "https://guymorita.github.io/moxspeak/"
+  homepage "https://moxspeak.com/"
 
   # MLX is Apple silicon only, so there is no Intel build and never will be. Saying so
   # here means `brew install` refuses with a clear reason instead of installing an app
